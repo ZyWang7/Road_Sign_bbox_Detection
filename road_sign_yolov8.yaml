@@ -1,0 +1,6 @@
+path: '../../../ziyi/Road_Sign/Data/'
+train: 'train/'
+val: 'test/'
+
+nc: 4  # number of classes
+names: ["speedlimit", "stop", "crosswalk", "trafficlight"]  # class names
